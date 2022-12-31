@@ -1,0 +1,3 @@
+import grpc
+from recommendations_pb2_grpc import RecommendationsStub
+
